@@ -13,7 +13,7 @@ title: "Zirui"
 title_separator: "-"
 name: &name "Zirui Wang"
 description: &description "personal description"
-url: "https://rhys-wang-wannalearnmath.github.io/zirui-wang.github.io"
+url: "https://rhys-wang-wannalearnmath.github.io/"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "academicpages/academicpages.github.io"
 
