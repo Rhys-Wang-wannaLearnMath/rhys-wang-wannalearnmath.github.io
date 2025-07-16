@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # Hello 👋
-I am an undergraduate from **Sun Yat-Sen University's Software Engineering program** with research interests in **software systems**, **AI4Compiler**, **AI engine vulnerabilities**, **LLM4Code**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
+I am an undergraduate from **Sun Yat-Sen University's Software Engineering program** with research interests in **software systems**, **AI4Compiler**, **AI engine vulnerabilities**, **LLM4Code**, **multi-agent system**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
 
 I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at Sun Yat-sen University. During April 2025 to November 2025, I served as a Research Assistant in the ARISE Lab under the supervision of **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)** at The Chinese University of Hong Kong. 
 
@@ -34,6 +34,7 @@ Department: ***School of Software Engineering***
 <span style="font-size: 1.2em; font-weight: bold;">Languages</span>  
 - **English** (Proficient, IELTS 7)
 - **Chinese** (Native speaker)
+- **Cantonese** (Elementary， But I'm improving💪)
 - **Xiang Dialect** (Native speaker)
 
 ---
