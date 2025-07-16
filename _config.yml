@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Homepage"
+title: "Zirui"
 title_separator: "-"
 name: &name "Zirui Wang"
 description: &description "personal description"
@@ -26,16 +26,16 @@ author:
   name: "Zirui Wang"
   pronouns: # example: "she/her"
   bio: ""
-  location: "Earth"
+  location: "HongKong & GuangDong, China"
   employer: "Sun Yat-sen University"
   uri: # URL
-  email: "none@example.org"
+  email: "rhyswang0405@gmail.com;wangzr39@mail2.sysu.edu.cn"
 
   # Academic websites
   academia: # URL
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  github: "academicpages"
+  googlescholar: " "
+  github: "Rhys-Wang-wannaLearnMath"
   impactstory: # URL
   orcid: #"https://orcid.org/0009-0004-5773-8716"
   semantic: # URL
