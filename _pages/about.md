@@ -34,7 +34,7 @@ Department: ***School of Software Engineering***
 <span style="font-size: 1.2em; font-weight: bold;">Languages</span>  
 - **English** (Proficient, IELTS 7)
 - **Chinese** (Native speaker)
-- **Cantonese** (Elementary， But I'm improving💪)
+- **Cantonese** (Elementary, But I'm improving💪)
 - **Xiang Dialect** (Native speaker)
 
 ---
