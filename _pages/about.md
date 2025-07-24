@@ -18,7 +18,7 @@ You can view my CV [here](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKw
 ---
 # Education 🎓
 <span style="font-size: 1.2em; font-weight: bold;">Bachelor's Degree</span>  
-*2022.09 - 2026.6 (Expected)*: **Sun Yat-sen University(SYSU)**
+*2022.09 - 2026.6 (Expected)*: **Sun Yat-sen University(SYSU)**  
 Department: ***School of Software Engineering***
 
 <!--  # Project Experience -->
