@@ -18,8 +18,7 @@ You can view my CV [here](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKw
 ---
 # Education 🎓
 <span style="font-size: 1.2em; font-weight: bold;">Bachelor's Degree</span>  
-**Sun Yat-sen University(SYSU)**: 2022.09 - 2026.6 (Expected)  
-Department: ***School of Software Engineering***
+*2022.09 - 2026.6 (Expected)*: **Sun Yat-sen University(SYSU)**, ***School of Software Engineering***
 
 <!--  # Project Experience -->
 <!-- Internships -->
@@ -32,18 +31,18 @@ Department: ***School of Software Engineering***
 ---
 # Awards & Honors 🏆
 <span style="font-size: 1.2em; font-weight: bold;">Scholarships</span>  
-- 1st Class Scholarship for Outstanding Student (2022-2023, top 5%)
-- Merchants Union Consumer Finance Company Limited Scholarship (2022-2023, top 5%, Biennial award, highest monetary value at SYSU)
-- Kingdomcares Scholarship (2023-2024, top 5%)
-- 2nd Class Scholarship for Outstanding Student (2023-2024, top 10%)
-- Arts & Culture Scholarship (2022-2023)  
+- 1st Class Scholarship for Outstanding Student (*2022 - 2023*, top 5%)
+- Merchants Union Consumer Finance Company Limited Scholarship (*2022 - 2023*, top 5%, Biennial award, highest monetary value at SYSU)
+- Kingdomcares Scholarship (*2023 - 2024*, top 5%)
+- 2nd Class Scholarship for Outstanding Student (*2023 - 2024*, top 10%)
+- Arts & Culture Scholarship (*2022 - 2023*)  
 
 <span style="font-size: 1.2em; font-weight: bold;">Projects</span>  
-- China National-Level Innovation Project, Leader (2024-2025, 4 out of 71, 24K CNY)
-- China National-Level Innovation Project, Core Member (2023-2024, 3 out of 43, 24K CNY)  
+- China National-Level Innovation Project, Leader (*2024 - 2025*, 4 out of 71, 24K CNY)
+- China National-Level Innovation Project, Core Member (*2023 - 2024*, 3 out of 43, 24K CNY)  
 
 <span style="font-size: 1.2em; font-weight: bold;">Competitions</span>  
-- Guangdong Province Second Prize in China Undergraduate Mathematical Contest in Modeling (2024-2025, top 18% in province)
+- Guangdong Province Second Prize in China Undergraduate Mathematical Contest in Modeling (*2024 - 2025*, top 18% in province)
 
 ---
 # Technical Skills 💻
@@ -61,7 +60,7 @@ Department: ***School of Software Engineering***
 ---
 # Community Contribution 🌟
 <span style="font-size: 1.2em; font-weight: bold;">Illuminating Youth, Empowering Futures: A Volunteer Teaching Journey</span>  
-**Xupu County, Hunan · 2022.7-2022.8**  
+**Xupu County, Hunan · *2022.7-2022.8***  
 [News report link (in Chinese)](https://m.voc.com.cn/xhn/news/202207/17454263.html)
 
 ---
