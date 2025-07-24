@@ -24,18 +24,10 @@ Department: ***School of Software Engineering***
 <!--  # Project Experience -->
 <!-- Internships -->
 <!-- Academic Services -->
----
-# Technical Skills 💻
-<span style="font-size: 1.2em; font-weight: bold;">Programming Languages</span>  
-- **C & C++** (Proficient)
-- **Rust** 🦀 (Advanced, I love its disciplined elegance.)
-- **Go & Java** (Intermediate)  
 
-<span style="font-size: 1.2em; font-weight: bold;">Languages</span>  
-- **English** (Proficient, IELTS 7)
-- **Chinese** (Native speaker)
-- **Cantonese** (Elementary, But I'm improving💪)
-- **Xiang Dialect** (Native speaker)
+---
+# Internships
+- *2025.04 - 2025.10*: The Chinese University of Hong Kong (CUHK) ARISE Lab in collaboration with Huawei 2012 Lab, **Research Assistant**, advised by [Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/).
 
 ---
 # Awards & Honors 🏆
@@ -52,6 +44,19 @@ Department: ***School of Software Engineering***
 
 <span style="font-size: 1.2em; font-weight: bold;">Competitions</span>  
 - Guangdong Province Second Prize in China Undergraduate Mathematical Contest in Modeling (2024-2025, top 18% in province)
+
+---
+# Technical Skills 💻
+<span style="font-size: 1.2em; font-weight: bold;">Programming Languages</span>  
+- **C & C++** (Proficient)
+- **Rust** 🦀 (Advanced, I love its disciplined elegance.)
+- **Go & Java** (Intermediate)  
+
+<span style="font-size: 1.2em; font-weight: bold;">Languages</span>  
+- **English** (Proficient, IELTS 7)
+- **Chinese** (Native speaker)
+- **Cantonese** (Elementary, But I'm improving💪)
+- **Xiang Dialect** (Native speaker)
 
 ---
 # Community Contribution 🌟
