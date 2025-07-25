@@ -11,7 +11,7 @@ I'm currently an undergraduate student in the ***School of Software Engineering*
 
 I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **Sun Yat-sen University**. During April 2025 to November 2025, I served as a Research Assistant in **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)**'s ARISE Lab at **The Chinese University of Hong Kong(CUHK)**.
 
-I will join **[Prof. Shao-Hua Li](https://shao-hua-li.github.io/)**'s research group in ***the Department of Computer Science and Engineering(CSE)*** at **The Chinese University of Hong Kong(CUHK)** to pursue my **PhD starting Fall 2026**.
+I will join **[Prof. Shao-Hua Li](https://shao-hua-li.github.io/)**'s research group in the ***Department of Computer Science and Engineering(CSE)*** at **The Chinese University of Hong Kong(CUHK)** to pursue my **PhD starting Fall 2026**.
 
 You can view my CV [here](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKwHUUSkUQ8Vrq/view?usp=sharing) 📄. Please feel free to reach out for further discussion: [rhyswang0405@gmail.com](mailto:rhyswang0405@gmail.com); [wangzr39@mail2.sysu.edu.cn](mailto:wangzr39@mail2.sysu.edu.cn) 📧
 
