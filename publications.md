@@ -60,7 +60,7 @@ author_profile: true
 <style>
 /* 年份标题样式 - 使用 Arial 字体 */
 .year-title {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
   font-size: 1.2em;
   font-weight: bold;
   color: #2c3e50;
@@ -70,14 +70,15 @@ author_profile: true
 
 /* 文章标题样式 - 使用 Georgia 字体 */
 .paper-title {
-  font-family: 'Georgia', 'Crimson Text', serif; 
+  font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
   font-size: 1.1em;
-  font-weight: 600;
+  font-weight: 750;
   color: #34495e;
 }
 
 /* 论文信息样式 */
 .paper-info {
+  font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
   margin-bottom: 0.8em;
   line-height: 1.4;
 }
@@ -94,7 +95,7 @@ p {
 
 /* Conference和Journal主标题样式 */
 h2 {
-  font-family: 'Georgia', 'Times New Roman', serif;
+  font-family: 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
   font-size: 1.4em !important;
   font-weight: bold !important;
   color: #2c3e50 !important;

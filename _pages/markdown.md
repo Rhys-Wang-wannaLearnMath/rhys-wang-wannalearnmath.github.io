@@ -8,16 +8,58 @@ redirect_from:
 ---
 
 <style>
+:root {
+    --base-font-size: 19px;
+    --line-height-base: 1.4;      
+    --spacing-scale: 0.9;         
+}
+
+html {
+    font-size: var(--base-font-size) !important;
+}
+
+body {
+    font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
+    line-height: var(--line-height-base) !important;
+}
+
+/* 页面布局和字体设置 */
 .page__content {
-  max-width: 1200px !important;  /* 增加最大宽度 */
-  margin: 0 auto;
+    font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
+    max-width: 1200px !important;  /* 增加最大宽度 */
+    margin: 0 auto;
 }
+
 .page {
-  width: 100% !important;
+    width: 100% !important;
 }
+
 .masthead__inner-wrap,
 .page__footer-copyright {
-  max-width: 1200px !important;
+    max-width: 1200px !important;
+}
+
+/* 间距控制 */
+p {
+    margin: calc(0.8em * var(--spacing-scale)) 0 !important;
+    line-height: var(--line-height-base) !important;
+}
+
+h3, h4, h5, h6 {
+    margin-bottom: calc(0.6em * var(--spacing-scale)) !important;
+    margin-top: calc(1.2em * var(--spacing-scale)) !important;
+}
+h1 {
+    margin-bottom: calc(0.6em * var(--spacing-scale)) !important;
+}
+h2 {
+    font-family: 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
+    margin-bottom: calc(0.6em * var(--spacing-scale)) !important;
+    margin-top: calc(1.2em * var(--spacing-scale)) !important;
+}
+
+li {
+    margin-bottom: calc(0.4em * var(--spacing-scale)) !important;
 }
 </style>
 
