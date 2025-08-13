@@ -2,7 +2,7 @@
 title: "Memoir: Efficient KV Cache Optimization for LLM Inference in WebAssembly Runtimes"
 collection: publications
 # manuscripts代表journal，conference代表conference
-category: conference
+category: conferences
 # 下列这个代表你的目录
 
 # 下列是简短的介绍
