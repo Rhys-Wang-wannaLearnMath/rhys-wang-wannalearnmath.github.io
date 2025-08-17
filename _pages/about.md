@@ -40,11 +40,6 @@ li {
 }
 </style>
 
-</script>
-<div class="last-updated">
-⏳ Last updated: {% if page.last_modified_at %}{{ page.last_modified_at | date: "%B %d, %Y" }}{% elsif page.date %}{{ page.date | date: "%B %d, %Y" }}{% else %}{{ site.time | date: "%B %d, %Y" }}{% endif %}
-</div>
-
 # 👋 Hello 
 I'm currently an undergraduate student in the ***School of Software Engineering*** at **Sun Yat-Sen University(SYSU)** with research interests in **software systems**, **AI4compiler**, **AI infrastructure**(especially **AI training&inference framework**, **AI compiler** and **AI compute architecture**), **LLM4code**, **multi-agent system**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
 
