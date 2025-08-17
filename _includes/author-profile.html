@@ -165,8 +165,12 @@
 
       <!-- Last updated timestamp -->
       <li class="author__desktop">
-        <i class="fas fa-fw fa-clock icon-pad-right" aria-hidden="true"></i>
-      Last updated: {% if page.last_modified_at %}{{ page.last_modified_at | date: "%B %d, %Y" }}{% elsif page.date %}{{ page.date | date: "%B %d, %Y" }}{% else %}{{ site.time | date: "%B %d, %Y" }}{% endif %}.
+        <span class="author__icon">
+          <i class="fas fa-fw fa-clock icon-pad-right" aria-hidden="true"></i>
+        </span>
+        <span class="author__text">
+          Last updated: {% if page.last_modified_at %}{{ page.last_modified_at | date: "%B %d, %Y" }}{% elsif page.date %}{{ page.date | date: "%B %d, %Y" }}{% else %}{{ site.time | date: "%B %d, %Y" }}{% endif %}.
+        </span>
       </li>
     </ul>
   </div>
