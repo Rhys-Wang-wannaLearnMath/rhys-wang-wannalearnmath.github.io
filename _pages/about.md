@@ -100,3 +100,5 @@ Department: ***School of Software Engineering***
 
 ---
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=qk3qaVrPcP47uNTlR8Cii3-WV8cYtO63kkRzMNwTU68&co=3589c4'></script>
+
+⏳  Last updated: {% if page.last_modified_at %}{{ page.last_modified_at | date: "%B %d, %Y" }}{% elsif page.date %}{{ page.date | date: "%B %d, %Y" }}{% else %}{{ site.time | date: "%B %d, %Y" }}{% endif %}.
