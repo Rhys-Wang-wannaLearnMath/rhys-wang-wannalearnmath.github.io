@@ -1,3 +1,5 @@
+gem "jekyll-last-modified-at"
+
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
