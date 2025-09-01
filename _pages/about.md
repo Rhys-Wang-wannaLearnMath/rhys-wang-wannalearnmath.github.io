@@ -51,7 +51,7 @@ You can view my CV [here](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKw
 
 ---
 # 🎓 Education 
-<img src="../images/sysu.jpeg" alt="Sun Yat-sen University" style="float: left; width: 105px; height: auto; margin-right: 15px; margin-bottom: 0px; border-radius: 8px;">
+<img src="../images/sysu.jpeg" alt="Sun Yat-sen University" style="float: left; width: 112px; height: auto; margin-right: 15px; margin-bottom: 0px; border-radius: 8px;">
 <span style="font-size: 1.2em; font-weight: bold;">Bachelor's Degree</span>  
 *2022.09 - 2026.6 (Expected)*: **Sun Yat-sen University(SYSU)**  
 Department: ***School of Software Engineering***  
