@@ -25,7 +25,7 @@ author_profile: true
 {% for pub in year_group.items %}
 <div class="paper-title">{{ pub.title }}</div>
 <div class="paper-info">
-{{ pub.venue }}, {{ pub.date | date: "%Y" }}<br>
+{{ pub.venue }}<br>
 <strong>Authors:</strong> {{ pub.citation }}<br>
 {% if pub.paperurl %}<a href="{{ pub.paperurl }}">Access to our work.</a>{% endif %}
 </div>

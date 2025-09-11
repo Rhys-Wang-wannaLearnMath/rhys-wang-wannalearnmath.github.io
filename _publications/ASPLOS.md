@@ -10,7 +10,7 @@ category: conferences
 
 date: 2025-08-13
 # 下列venue代表文章的状态，记得<i>和</i>是斜体
-venue: 'Under review at <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems(ASPLOS)</i>'
+venue: 'Under review at <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems(ASPLOS) 2026</i>'
 paperurl: 'https://drive.google.com/file/d/1nk6Jl0UZLD7CczVP3a2z7R7sU1VWlsfS/view?usp=sharing'
 citation: '<u>Zirui Wang</u>, Yudan Long, Yuxin Su†, Dan Li, and Zibin Zheng'
 ---
