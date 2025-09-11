@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap');
 :root {
-    --base-font-size: 19px;
+    --base-font-size: 17.5px;
     --line-height-base: 1.4;      
     --spacing-scale: 0.8;         
 }
@@ -18,8 +19,16 @@ html {
 }
 
 body {
-    font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
-    line-height: var(--line-height-base) !important;
+     /* Prefer Menlo for Latin text (common on macOS). Menlo is monospace and
+         may affect layout; include Monaco and serif/CJK fallbacks for other
+         platforms and Chinese glyphs. */
+     /* Prefer Google Sans Code (via Google Fonts import above). Keep other
+         fallbacks so platforms without the font still display sensibly. If the
+         font isn't available the browser will use the fallbacks. Note: this is
+         a code-style (monospace) face and may affect layout when applied to
+         body; consider scoping to code blocks if needed. */
+     font-family: 'Google Sans Code', 'Consolas', 'Ubuntu Mono', 'Menlo', 'Monaco', 'Charter', 'Source Han Serif SC', 'Noto Serif SC', 'Georgia', serif !important;
+     line-height: var(--line-height-base) !important;
 }
 
 p {
