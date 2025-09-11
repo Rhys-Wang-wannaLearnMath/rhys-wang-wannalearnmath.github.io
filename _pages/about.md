@@ -27,7 +27,7 @@ body {
          font isn't available the browser will use the fallbacks. Note: this is
          a code-style (monospace) face and may affect layout when applied to
          body; consider scoping to code blocks if needed. */
-     font-family: 'Google Sans Code', 'Consolas', 'Ubuntu Mono', 'Menlo', 'Monaco', 'Charter', 'Source Han Serif SC', 'Noto Serif SC', 'Georgia', serif !important;
+     font-family: 'Google Sans Code', 'Charter', 'Source Han Serif SC', 'Noto Serif SC', 'Georgia', serif !important;
      line-height: var(--line-height-base) !important;
 }
 
@@ -52,7 +52,7 @@ li {
 # 👋 Hello 
 I'm currently an undergraduate student in the ***School of Software Engineering*** at **Sun Yat-Sen University(SYSU)** with research interests in **software systems**, **AI4compiler**, **AI infrastructure**(especially **AI training&inference framework**, **AI compiler** and **AI compute architecture**), **LLM4code**, **multi-agent system**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
 
-I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **Sun Yat-sen University**. During April 2025 to November 2025, I served as a Research Assistant in **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)**'s ARISE Lab at **The Chinese University of Hong Kong(CUHK)**.
+I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **Sun Yat-sen University**. During April 2025 to November 2025, I served as a Research Assistant in ARISE Lab led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)** at **The Chinese University of Hong Kong(CUHK)**.
 
 I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***Department of Computer Science and Engineering(CSE)*** at **The Chinese University of Hong Kong(CUHK)** to pursue my **PhD starting Fall 2026**.
 
@@ -60,7 +60,7 @@ You can view my CV [here](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKw
 
 ---
 # 🎓 Education 
-<img src="../images/sysu.jpeg" alt="Sun Yat-sen University" style="float: left; width: 112px; height: auto; margin-right: 15px; margin-bottom: 0px; border-radius: 8px;">
+<img src="../images/sysu.jpeg" alt="Sun Yat-sen University" style="float: left; width: 103.5px; height: auto; margin-right: 15px; margin-bottom: 0px; border-radius: 8px;">
 <span style="font-size: 1.2em; font-weight: bold;">Bachelor's Degree</span>  
 *2022.09 - 2026.6 (Expected)*: **Sun Yat-sen University(SYSU)**  
 Department: ***School of Software Engineering***  
