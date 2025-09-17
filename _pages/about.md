@@ -73,7 +73,7 @@ GPA: 4.0/4.0; Rank: 2/167
 
 ---
 # 🧑‍💻 Internships
-- *2025.04 - 2025.10*: The Chinese University of Hong Kong(CUHK) ARISE Lab in collaboration with Huawei 2012 Lab, **Research Assistant**, worked with [Dr. Guangba Yu](https://yuxiaoba.github.io/).
+- *2025.04 - 2025.10*: The Chinese University of Hong Kong(CUHK) ARISE Lab in collaboration with Huawei 2012 Lab, **Research Assistant**, worked with **[Dr. Guangba Yu](https://yuxiaoba.github.io/)**.
 
 ---
 # 🏆 Awards & Honors 
