@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -19,7 +19,7 @@
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
+    overflow-y: auto; // Add scrollbar if the sidebar is too long
     position: fixed;
     padding-top: $masthead-height;
   }
@@ -28,7 +28,7 @@
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
 
     &:hover {
       opacity: 1;
@@ -40,17 +40,25 @@
     padding-right: 0;
   }
 
-  h2, h3, h4, h5, h6 {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: "Playfair Display", "Playfair Display Fallback", Georgia, "Times New Roman", serif;
+    font-display: swap;
   }
 
-  h3, h4 {
+  h3,
+  h4 {
     font-size: $type-size-5;
   }
 
-  p, li {
-    font-family: $sans-serif;
+  p,
+  li {
+    font-family: "Playfair Display", "Playfair Display Fallback", Georgia, "Times New Roman", serif;
+    font-display: swap;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -127,13 +135,17 @@
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: "Playfair Display", "Playfair Display Fallback", Georgia, "Times New Roman", serif;
+  font-display: swap;
   font-size: $type-size-5;
+  font-weight: 400;
 }
 
 .sidebar .author__desktop {
   display: none;
+
   @media screen and (min-width: 1024px) {
     display: block;
   }
@@ -141,6 +153,8 @@
 
 .author__pronouns {
   margin: 0;
+  font-family: "Playfair Display", "Playfair Display Fallback", Georgia, "Times New Roman", serif;
+  font-display: swap;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -150,6 +164,8 @@
 
 .author__bio {
   margin: 0;
+  font-family: "Playfair Display", "Playfair Display Fallback", Georgia, "Times New Roman", serif;
+  font-display: swap;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -161,7 +177,8 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: "Playfair Display", "Playfair Display Fallback", Georgia, "Times New Roman", serif;
+  font-display: swap;
   z-index: 10;
   position: relative;
   cursor: pointer;
@@ -254,6 +271,8 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
+    font-family: "Playfair Display", "Playfair Display Fallback", Georgia, "Times New Roman", serif;
+    font-display: swap;
     font-size: $type-size-5;
     text-decoration: none;
 
