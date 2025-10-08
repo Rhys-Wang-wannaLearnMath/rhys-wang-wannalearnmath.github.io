@@ -25,10 +25,15 @@ author_profile: true
 {% for pub in year_group.items %}
 <div class="paper-title">{{ pub.title }}</div>
 <div class="paper-info">
-- {{ pub.venue }}<br>
-- <strong>Authors:</strong> {{ pub.citation }}<br>
-- {% if pub.paperurl %}<a href="{{ pub.paperurl }}">Access to our work.</a>{% endif %}
+<ul>
+  <li>{{ pub.venue }}</li>
+  <li><strong>Authors:</strong> {{ pub.citation }}</li>
+  {% if pub.paperurl %}
+  <li><a href="{{ pub.paperurl }}">Access to our work.</a></li>
+  {% endif %}
+</ul>
 </div>
+
 
 {% endfor %}
 {% endfor %}
@@ -48,10 +53,15 @@ author_profile: true
 {% for pub in year_group.items %}
 <div class="paper-title">{{ pub.title }}</div>
 <div class="paper-info">
-- {{ pub.venue }}<br>
-- <strong>Authors:</strong> {{ pub.citation }}<br>
-- {% if pub.paperurl %}<a href="{{ pub.paperurl }}">Access to our work.</a>{% endif %}
+<ul>
+  <li>{{ pub.venue }}</li>
+  <li><strong>Authors:</strong> {{ pub.citation }}</li>
+  {% if pub.paperurl %}
+  <li><a href="{{ pub.paperurl }}">Access to our work.</a></li>
+  {% endif %}
+</ul>
 </div>
+
 
 {% endfor %}
 {% endfor %}
