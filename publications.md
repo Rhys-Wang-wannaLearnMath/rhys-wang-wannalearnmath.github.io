@@ -86,27 +86,23 @@ author_profile: true
   color: #34495e;
 }
 
+/* 论文信息样式 */
+.paper-info {
+  font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
+  margin-bottom: 0.8em;
+  line-height: 1.4;
+}
+/* ✅ 列表左对齐（无缩进） */
 .paper-info ul {
-  margin: 0.2em 0 0.8em 0;
-  padding-left: 0;
-  list-style: none; /* 先去掉浏览器默认的圆点 */
+  margin: 0.2em 0 0.8em 0 !important;  /* 去掉主题给 ul 的左外边距 */
+  padding-left: 0 !important;          /* 去掉默认缩进 */
+  list-style-type: disc;               /* 保持圆点 */
+  list-style-position: inside;         /* 圆点与容器左边线对齐 */
 }
-
 .paper-info li {
-  position: relative;
-  margin-left: 0;
-  padding-left: 1em; /* 这里控制点和字的距离 */
+  margin: 0.2em 0;                     /* 行距更紧凑 */
+  padding-left: 0 !important;          /* 确保无额外内边距 */
 }
-
-.paper-info li::before {
-  content: "•"; /* 自定义圆点 */
-  position: absolute;
-  left: 0;
-  top: 0;
-  color: #2c3e50; /* 可自定义颜色 */
-  font-weight: bold;
-}
-
   
 /* 减少段落间距 */
 p {
