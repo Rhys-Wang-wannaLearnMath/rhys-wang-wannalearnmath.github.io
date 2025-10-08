@@ -92,7 +92,18 @@ author_profile: true
   margin-bottom: 0.8em;
   line-height: 1.4;
 }
-
+/* ✅ 列表左对齐（无缩进） */
+.paper-info ul {
+  margin: 0.2em 0 0.8em 0 !important;  /* 去掉主题给 ul 的左外边距 */
+  padding-left: 0 !important;          /* 去掉默认缩进 */
+  list-style-type: disc;               /* 保持圆点 */
+  list-style-position: inside;         /* 圆点与容器左边线对齐 */
+}
+.paper-info li {
+  margin: 0.2em 0;                     /* 行距更紧凑 */
+  padding-left: 0 !important;          /* 确保无额外内边距 */
+}
+  
 /* 减少段落间距 */
 p {
   margin-bottom: 0.5em;
