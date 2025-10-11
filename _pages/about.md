@@ -51,7 +51,7 @@ li {
 
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Zirui." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
 
-I'm currently an undergraduate student in the ***School of Software Engineering*** at **Sun Yat-Sen University(SYSU)** with research interests in **software systems**, **AI4compiler**, **AI infrastructure**(especially **AI training&inference framework**, **AI compiler** and **AI compute architecture**), **LLM4code**, **multi-agent system**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
+I'm currently an undergraduate student in the ***School of Software Engineering*** at **Sun Yat-Sen University(SYSU)** with research interests in **software systems**, **AI infrastructure**(especially **AI training&inference framework**, **AI compiler** and **AI compute architecture**), **LLM4code**, **multi-agent system**, **AI4compiler**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
 
 I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **Sun Yat-sen University**. During April 2025 to November 2025, I served as a Research Assistant in ARISE Lab led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)** at **The Chinese University of Hong Kong(CUHK)**.
 
