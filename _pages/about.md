@@ -80,9 +80,10 @@ GPA: 4.0/4.0; Rank: 2/167
 <span style="font-size: 1.2em; font-weight: bold;">Scholarships</span>  
 - 1st Class Scholarship for Outstanding Student (*2022 - 2023*, top 5%)
 - Merchants Union Consumer Finance Company Limited Scholarship (*2022 - 2023*, top 5%, Biennial award, highest monetary value at SYSU)
-- Kingdomcares Scholarship (*2023 - 2024*, top 5%)
+- Arts&Culture Scholarship (*2022 - 2023*)
 - 2nd Class Scholarship for Outstanding Student (*2023 - 2024*, top 10%)
-- Arts&Culture Scholarship (*2022 - 2023*)  
+- Kingdomcares Scholarship (*2023 - 2024*, top 5%)
+- 1st Class Scholarship for Outstanding Student (*2024 - 2025*, top 5%)  
 
 <span style="font-size: 1.2em; font-weight: bold;">Projects</span>  
 - China National-Level Innovation Project, Leader (*2024 - 2025*, 4 out of 71, 24K CNY)
