@@ -57,7 +57,7 @@ I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **
 
 I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***Department of Computer Science and Engineering(CSE)*** at **The Chinese University of Hong Kong(CUHK)** to pursue my **PhD starting Fall 2026**.
 
-You can view my CV here: [English version](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKwHUUSkUQ8Vrq/view?usp=sharing)&[Chinese version](https://drive.google.com/file/d/18LoLKecBpM8NQHUDMtqaOSp7rE4cjySM/view?usp=sharing) 📄. Please feel free to reach out for further discussion: [rhyswang0405@gmail.com](mailto:rhyswang0405@gmail.com); [wangzr39@mail2.sysu.edu.cn](mailto:wangzr39@mail2.sysu.edu.cn); [zrwang@cse.cuhk.edu.hk](mailto:zrwang@cse.cuhk.edu.hk) 📧
+You can view my **CV** here: [English version](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKwHUUSkUQ8Vrq/view?usp=sharing)&[Chinese version](https://drive.google.com/file/d/18LoLKecBpM8NQHUDMtqaOSp7rE4cjySM/view?usp=sharing) 📄. Please feel free to reach out for further discussion: [rhyswang0405@gmail.com](mailto:rhyswang0405@gmail.com); [wangzr39@mail2.sysu.edu.cn](mailto:wangzr39@mail2.sysu.edu.cn); [zrwang@cse.cuhk.edu.hk](mailto:zrwang@cse.cuhk.edu.hk) 📧
 
 ---
 # 🎓 Education 
