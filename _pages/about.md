@@ -51,11 +51,11 @@ li {
 
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Zirui." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
 
-I'm currently an undergraduate student in the ***School of Software Engineering*** at **Sun Yat-Sen University(SYSU)** with research interests in **software systems**, **AI infrastructure**(especially **AI training&inference framework**, **AI compiler** and **AI compute architecture**), **LLM4code**, **multi-agent system**, **AI4compiler**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
+I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)** with research interests in **software systems**, **AI infrastructure**(especially **AI training&inference framework**, **AI compiler** and **AI compute architecture**), **LLM4code**, **multi-agent system**, **AI4compiler**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
 
 I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **Sun Yat-sen University**. During April 2025 to November 2025, I served as a Research Assistant in ARISE Lab led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)** at **The Chinese University of Hong Kong(CUHK)**.
 
-I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***Department of Computer Science and Engineering(CSE)*** at **The Chinese University of Hong Kong(CUHK)** to pursue my **PhD starting Fall 2026**.
+I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** to pursue my **PhD starting Fall 2026**.
 
 You can view my **CV** here: [English version](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKwHUUSkUQ8Vrq/view?usp=sharing)&[Chinese version](https://drive.google.com/file/d/18LoLKecBpM8NQHUDMtqaOSp7rE4cjySM/view?usp=sharing) 📄. Please feel free to reach out for further discussion: [rhyswang0405@gmail.com](mailto:rhyswang0405@gmail.com); [wangzr39@mail2.sysu.edu.cn](mailto:wangzr39@mail2.sysu.edu.cn); [zrwang@cse.cuhk.edu.hk](mailto:zrwang@cse.cuhk.edu.hk) 📧
 
