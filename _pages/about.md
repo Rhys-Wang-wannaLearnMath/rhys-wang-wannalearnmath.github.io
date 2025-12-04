@@ -53,7 +53,7 @@ li {
 
 I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)** with research interests in **software systems**, **AI infrastructure**(especially **AI training&inference framework**, **AI compiler** and **AI compute architecture**), **LLM4code**, **multi-agent system**, **AI4compiler**, **AI4SE** and **webassembly**. I am passionate about projects that have a positive impact on everyday life and the community 🌟.
 
-I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **Sun Yat-sen University**. During April 2025 to November 2025, I served as a Research Assistant in ARISE Lab led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)** at **The Chinese University of Hong Kong(CUHK)**.
+I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **Sun Yat-sen University**. During April 2025 to November 2025, I served as a Research Assistant in ARISE Lab led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)** at **The Chinese University of Hong Kong**.
 
 I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** to pursue my **PhD starting Fall 2026**.
 
