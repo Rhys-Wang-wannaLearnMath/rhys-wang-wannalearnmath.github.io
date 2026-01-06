@@ -14,7 +14,7 @@ author_profile: true
 {% if conferences.size > 0 and journals.size > 0 %}
 <div class="section-divider"></div>
 {% endif %}
----
+
 {% if conferences.size > 0 %}
 ## Conference(*Equal contribution, †Corresponding author)
 
