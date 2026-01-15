@@ -12,5 +12,5 @@ date: 2025-06-01
 # 下列venue代表文章的状态，记得<i>和</i>是斜体
 venue: 'Under review at <i>The ACM Transactions on Software Engineering and Methodology (TOSEM) 2026</i>'
 paperurl: 'https://drive.google.com/file/d/1doosGV73yao81Y4JSWDLT4VGiISpUTPv/view?usp=sharing'
-citation: 'Guangba Yu, <u>Zirui Wang</u> and Michael R. Lyu†'
+citation: 'Guangba Yu*, <u>Zirui Wang</u>*, Yujie Huang, Renyi Zhong, Yuedong Zhong, Yilun Wang, Haiyu Huang and Michael R. Lyu†'
 ---
