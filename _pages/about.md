@@ -87,8 +87,8 @@ GPA: 4.0/4.0; Rank: 1%/167
 - Merchants Union Consumer Finance Company Limited Scholarship (*2024 - 2025*, top 5%, Biennial award)  
 
 <span style="font-size: 1.2em; font-weight: bold;">Projects</span>  
-- China National-Level Innovation Project, Leader (*2024 - 2025*, 4 out of 71, 24K CNY)
-- China National-Level Innovation Project, Core Member (*2023 - 2024*, 3 out of 43, 24K CNY)  
+- China National-Level Innovation Project, Leader (*2024 - 2025*, 4 out of 71, *rated Excellent**)
+- China National-Level Innovation Project, Core Member (*2023 - 2024*, 3 out of 43)  
 
 <span style="font-size: 1.2em; font-weight: bold;">Competitions</span>  
 - Guangdong Province Second Prize in China Undergraduate Mathematical Contest in Modeling (*2024 - 2025*, top 18% in province)
