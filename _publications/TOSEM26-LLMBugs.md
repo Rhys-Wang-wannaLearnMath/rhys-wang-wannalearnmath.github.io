@@ -11,6 +11,6 @@ category: manuscripts
 date: 2026-01-15
 # 下列venue代表文章的状态，记得<i>和</i>是斜体
 venue: 'Under review at <i>The ACM Transactions on Software Engineering and Methodology (TOSEM) 2026</i>'
-paperurl: 'https://drive.google.com/file/d/1doosGV73yao81Y4JSWDLT4VGiISpUTPv/view?usp=sharing'
+paperurl: 'https://arxiv.org/abs/2601.13655v1'
 citation: 'Guangba Yu*, <u>Zirui Wang</u>*, Yujie Huang, Renyi Zhong, Yuedong Zhong, Yilun Wang, Haiyu Huang, Michael R. Lyu†'
 ---
