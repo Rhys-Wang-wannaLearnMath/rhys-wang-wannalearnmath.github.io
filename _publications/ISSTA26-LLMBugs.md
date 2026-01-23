@@ -2,7 +2,7 @@
 title: "Why Does the LLM Stop Computing: An Empirical Study of User-Reported Failures in Open-Source LLMs"
 collection: publications
 # manuscripts代表journal，conference代表conference
-category: manuscripts
+category: conferences
 # 下列这个代表你的目录
 
 # # 下列是简短的介绍
@@ -10,7 +10,7 @@ category: manuscripts
 
 date: 2026-01-15
 # 下列venue代表文章的状态，记得<i>和</i>是斜体
-venue: 'Under review at <i>The ACM Transactions on Software Engineering and Methodology (TOSEM) 2026</i>'
+venue: 'Under review at <i>The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026</i>'
 paperurl: 'https://arxiv.org/abs/2601.13655v1'
 citation: 'Guangba Yu*, <u>Zirui Wang</u>*, Yujie Huang, Renyi Zhong, Yuedong Zhong, Yilun Wang, Haiyu Huang, Michael R. Lyu†'
 ---
