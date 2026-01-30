@@ -51,9 +51,9 @@ li {
 
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Zirui." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
 
-I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)** with research interests in **software system**(such as **multi-agent system**), **AI infrastructure**(especially **AI training/inference framework**, **AI compiler** and **AI compute architecture**), **AI4SE**(particularly **AI4code/compiler**). I’m passionate about making a positive impact on everyday life and the community. 🌟.
+I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)**. I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** and begin my **PhD** journey in **Fall 2026**.
 
-I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** and begin my **PhD** journey in **Fall 2026**.
+My research focuses on **software system**(such as **multi-agent system**), **AI infrastructure**(especially **AI training/inference framework** and **AI compiler**), **AI4SE**(particularly **AI4code/compiler**). I’m passionate about making a positive impact on everyday life and the community. 🌟
 
 Previously, I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **SYSU**, and served as a Research Assistant in the **[ARISE Lab](http://ariselab.cse.cuhk.edu.hk/)** at **CUHK**, led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)**.
 
