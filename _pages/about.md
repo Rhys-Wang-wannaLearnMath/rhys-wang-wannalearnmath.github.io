@@ -101,7 +101,7 @@ GPA: 4.0/4.0; Rank: 1%/167
 <!-- - **Go & Java** (Intermediate)  -->
 
 # 💬 Languages  
-- **English** (Proficient, IELTS 7)
+- **English** (IELTS 7)
 - **Chinese** (Native speaker)
 - **Cantonese** (Elementary, But I'm improving💪)
 - **Xiang Dialect** (Native speaker)
