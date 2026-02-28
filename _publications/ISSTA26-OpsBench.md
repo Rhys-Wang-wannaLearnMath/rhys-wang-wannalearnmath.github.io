@@ -17,5 +17,5 @@ arxivurl: ''
 projecturl: ''
 doiurl: ''
 bibtexurl: ''
-citation: 'Yilun Wang, Guangba Yu, Haiyu Huang, <u>Zirui Wang</u>, Yujie Huang, Pengfei Chen, Michael R. Lyu'
+citation: 'Yilun Wang, Guangba Yu†, Haiyu Huang, <u>Zirui Wang</u>, Yujie Huang, Pengfei Chen, Michael R. Lyu'
 ---
