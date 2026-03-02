@@ -17,6 +17,21 @@ redirect_from:
 html {
     font-size: var(--base-font-size) !important;
 }
+/* 
+@media (min-width: 64em) {
+    #main {
+        max-width: 1000 !important;
+    }
+
+    .page {
+        width: calc(100% - 220px) !important;
+        padding-right: 0 !important;
+    }
+
+    .page__inner-wrap {
+        max-width: 1220px;
+    }
+} */
 
 body {
      /* Prefer Menlo for Latin text (common on macOS). Menlo is monospace and
@@ -49,7 +64,7 @@ li {
 }
 </style>
 
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Zirui." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Zirui (Rhys) Wang." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
 
 I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)**. I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** and begin my **PhD** journey in **Fall 2026**.
 
@@ -61,15 +76,22 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 
 ---
 # 🎓 Education 
-<img src="../images/sysu.jpeg" alt="Sun Yat-sen University" style="float: left; width: 103.5px; height: auto; margin-right: 15px; margin-bottom: 0px; border-radius: 8px;">
-<span style="font-size: 1.2em; font-weight: bold;">Bachelor's Degree</span>  
-*2022.09 - 2026.6 (Expected)*: **Sun Yat-sen University(SYSU)**  
-Department: ***School of Software Engineering***  
-GPA: 4.0/4.0; Rank: 1%/167
+<img src="../images/CUHK.svg" alt="CUHK" style="float: left; width: 90px; height: 90px; margin-right: 12px; margin-bottom: 2px; border-radius: 8px;">
+<span style="font-size: 1.2em; font-weight: bold;">The Chinese University of Hong Kong</span><span style="float: right;"><em>2026.08 - Present</em></span>  
+<ul style="margin: 0.2em 0 0 0; padding-left: 0; list-style-position: inside;">
+  <li style="margin: 0;">PhD Student, <em>Department of Computer Science and Engineering</em></li>
+  <li style="margin: 0.2em 0 0 0;">Status: Pre-candidacy; Advisor: <strong><a href="https://shao-hua-li.github.io/">Prof. Shaohua Li</a></strong></li>
+</ul>
 <div style="clear: both;"></div>
-<!--  # Project Experience -->
-<!-- Internships -->
-<!-- Academic Services -->
+<hr style="border: none; height: 1px; background: repeating-linear-gradient(to right, #e8e8e8 0, #e8e8e8 6px, transparent 6px, transparent 14px); margin: 0.5em 0;">
+<img src="../images/sysu.jpeg" alt="Sun Yat-sen University" style="float: left; width: 90px; height: 90px; margin-right: 12px; margin-bottom: 0px; border-radius: 8px;">
+<span style="font-size: 1.2em; font-weight: bold;">Sun Yat-sen University</span><span style="float: right;"><em>2022.09 - 2026.6 (Expected)</em></span>  
+<ul style="margin: 0.2em 0 0 0; padding-left: 0; list-style-position: inside;">
+  <li style="margin: 0;">Bachelor of Engineering, <em>School of Software Engineering</em></li>
+  <li style="margin: 0.2em 0 0 0;">GPA: 4.0/4.0; Rank: 1%/167; Advisor: <strong><a href="https://sse.sysu.edu.cn/teacher/221">Prof. Yuxin Su</a></strong></li>
+</ul>
+<div style="clear: both;"></div>
+
 
 ---
 # 🧑‍💻 Internships
@@ -93,6 +115,12 @@ GPA: 4.0/4.0; Rank: 1%/167
 <span style="font-size: 1.2em; font-weight: bold;">Competitions</span>  
 - Guangdong Province Second Prize in China Undergraduate Mathematical Contest in Modeling (*2024 - 2025*, top 18% in province)
 
+
+---
+# 📝 Teaching Assistant
+- Software Engineering Training: Integrated Projects (*2026*), SYSU.
+
+
 ---
 <!-- # Technical Skills 💻 -->
 <!-- <span style="font-size: 1.2em; font-weight: bold;">Programming Languages</span>  -->
@@ -100,17 +128,15 @@ GPA: 4.0/4.0; Rank: 1%/167
 <!-- - **Rust** 🦀 (Advanced, I love its disciplined elegance.) -->
 <!-- - **Go & Java** (Intermediate)  -->
 
-# 💬 Languages  
+<!-- # 💬 Languages  
 - **English** (IELTS 7)
 - **Chinese** (Native speaker)
 - **Cantonese** (Elementary, But I'm improving💪)
-- **Xiang Dialect** (Native speaker)
-
----
+- **Xiang Dialect** (Native speaker) -->
+<!-- --- -->
 # 🌟 Community Contribution 
-<span style="font-size: 1.2em; font-weight: bold;">Illuminating Youth, Empowering Futures: A Volunteer Teaching Journey</span>  
-**Xupu County, Hunan · *2022.7-2022.8***  
-[News report link (in Chinese)](https://m.voc.com.cn/xhn/news/202207/17454263.html)
+- <span style="font-size: 1.2em; font-weight: bold;">Volunteer Teaching</span> Xupu County, Hunan (*2022.7 - 2022.8*)  
+  Illuminating Youth, Empowering Futures · [[News report (in Chinese)](https://m.voc.com.cn/xhn/news/202207/17454263.html)]
 
 ---
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=qk3qaVrPcP47uNTlR8Cii3-WV8cYtO63kkRzMNwTU68&co=3589c4'></script>

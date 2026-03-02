@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Zirui Wang"
+title: "About Me"
 title_separator: "-"
-name: &name "Zirui Wang"
+name: &name "Zirui (Rhys) Wang"
 description: &description "personal description"
 url: "https://rhys-wang-wannalearnmath.github.io/"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository: "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar: "profile.png"
-  name: "Zirui Wang"
+  name: "Zirui (Rhys) Wang"
   pronouns: # example: "she/her"
   bio: ""
-  location: "HongKong & GuangDong, China"
-  employer: "Sun Yat-sen University"
+  location: "HongKong & GuangDong"
+  employer: "SYSU & CUHK"
   uri: # URL
   email: "rhyswang0405@gmail.com;wangzr39@mail2.sysu.edu.cn;zrwang@cse.cuhk.edu.hk"
 
