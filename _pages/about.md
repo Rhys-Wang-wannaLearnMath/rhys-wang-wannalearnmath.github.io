@@ -64,7 +64,7 @@ li {
 }
 </style>
 
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Zirui (Rhys) Wang." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello%2C+I'm+Zirui (Rhys) Wang." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
 
 I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)**. I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** and begin my **PhD** journey in **Fall 2026**.
 
@@ -99,7 +99,7 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 
 
 ---
-# 🧑‍💻 Internships
+# 🧑🏻‍💻 Internships
 - *2025.04 - 2025.10*: CUHK ARISE Lab in collaboration with Huawei 2012 Lab, **Research Assistant**, worked with **[Dr. Guangba Yu](https://yuxiaoba.github.io/)**.
 
 ---
@@ -139,7 +139,7 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 - **Cantonese** (Elementary, But I'm improving💪)
 - **Xiang Dialect** (Native speaker) -->
 <!-- --- -->
-# 🌟 Community Contribution 
+# 🤝🏻 Community Contribution 
 - <span style="font-size: 1.2em; font-weight: bold;">Volunteer Teaching</span> Xupu County, Hunan (*2022.7 - 2022.8*)  
   Illuminating Youth, Empowering Futures · [[News report (in Chinese)](https://m.voc.com.cn/xhn/news/202207/17454263.html)]
 

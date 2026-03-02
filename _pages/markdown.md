@@ -66,7 +66,7 @@ li {
 ## Sports & Fitness 🏃‍♂️
 - **Basketball** 🏀 (23 is my favorite number)
 - **Running** 🏃‍♂️ (Chinese national second-level 100m sprinter)
-- **Fitness** 💪 (Half squat max: 200kg)
+- **Fitness** 💪🏻 (Half squat max: 200kg)
 - **Swimming** 🏊‍♂️
 
 ## Gaming 🎮
@@ -75,7 +75,7 @@ li {
 - **Grand Theft Auto Series** 🚗 (GTA6 is coming soon)
 
 ## Other Interests 🌟
-- **Cooking** 👨‍🍳 (I'm improving!)
+- **Cooking** 🧑🏻‍🍳 (I'm improving!)
 
 ## My Dog 🐕💗
 Meet my little pup! My girlfriend and I decided to call him Happy – we're hoping he'll live up to his name and stay healthy and joyful for years to come! He's a Chinese Tusong dog 🐕, one of those wonderful traditional breeds that have been loyal companions in China for generations.
