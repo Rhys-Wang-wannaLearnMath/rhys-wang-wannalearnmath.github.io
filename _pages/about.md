@@ -68,7 +68,13 @@ li {
 
 I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)**. I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** and begin my **PhD** journey in **Fall 2026**.
 
-My research focuses on **software system**(such as **multi-agent system**), **AI infrastructure**(especially **AI training/inference framework** and **AI compiler**), **AI4SE**(particularly **AI4code/compiler**). I’m passionate about making a positive impact on everyday life and the community. 🌟
+
+<p style="margin-bottom: 0.15em !important;">I’m passionate about making a positive impact on everyday life and the community. 🌟 My research interests focus on:</p>
+<ul style="margin-top: 0 !important; margin-left: 0 !important; padding-left: 0 !important; list-style-position: inside !important;">
+  <li><strong>software system</strong>(such as <strong>multi-agent system</strong>)</li>
+  <li><strong>AI infrastructure</strong>(especially <strong>AI training/inference framework</strong> and <strong>AI compiler</strong>)</li>
+  <li><strong>AI4SE</strong>(particularly <strong>AI4code/compiler</strong>)</li>
+</ul>
 
 Previously, I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **SYSU**, and served as a Research Assistant in the **[ARISE Lab](http://ariselab.cse.cuhk.edu.hk/)** at **CUHK**, led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)**.
 
