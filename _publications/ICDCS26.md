@@ -9,7 +9,7 @@ category: conferences
 # excerpt: "We propose Memoir, a two-layer attention-driven KV cache optimization framework specifically designed for WebAssembly's linear memory layout, which achieves significant performance improvements (up to 416.1%) in LLM inference on edge devices and even outperforms native environments in some cases."
 
 date: 2026-01-15
-venue_short: "ICDCS'26"
+venue_short: "ICDCS'26 (CCF B)"
 # 下列venue代表文章的状态，记得<i>和</i>是斜体
 venue: 'Under review at <i>The 46th IEEE International Conference on Distributed Computing Systems</i>'
 paperurl: ''

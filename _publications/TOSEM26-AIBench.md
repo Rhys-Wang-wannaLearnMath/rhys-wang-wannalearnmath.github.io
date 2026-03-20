@@ -10,8 +10,8 @@ category1: manuscripts
 # excerpt: "Our work presents the first comprehensive empirical study of open-source LLM failures, analyzing 706 real-world issues to reveal that crashes and incorrect functionality dominate, primarily caused by environment compatibility and configuration errors. The research contributes a publicly available dataset for future research."
 
 date: 2026-01-15
-venue_short: "FSE'26"
-venue_short1: "TOSEM"
+venue_short: "FSE'26 (CCF A)"
+venue_short1: "TOSEM (CCF A)"
 # 下列venue代表文章的状态，记得<i>和</i>是斜体
 venue: 'Accepted at <i>The 34th ACM International Conference on the Foundations of Software Engineering Workshop on Data Intensive Software Engineering</i>'
 venue1: 'Extended version under review at <i>The ACM Transactions on Software Engineering and Methodology</i>'
