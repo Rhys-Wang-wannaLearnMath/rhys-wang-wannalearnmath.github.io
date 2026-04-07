@@ -66,14 +66,14 @@ li {
 
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello%2C+I'm+Zirui (Rhys) Wang." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
 
-I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)**. I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)** in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** and begin my **Ph.D.** journey in **Fall 2026**.
+I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)**. I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)**, an outstanding rising star and a truly supportive mentor, in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** and begin my **Ph.D.** journey in **Fall 2026**.
 
 
 <p style="margin-bottom: 0.15em !important;">I’m passionate about making a positive impact on everyday life and the community. 🌟 My research interests focus on:</p>
 <ul style="margin-top: 0 !important; margin-left: 0 !important; padding-left: 0 !important; list-style-position: inside !important;">
-  <li><strong>software system</strong>(such as <strong>multi-agent system</strong>)</li>
-  <li><strong>AI infrastructure</strong>(especially <strong>AI training/inference framework</strong> and <strong>AI compiler</strong>)</li>
-  <li><strong>AI4SE</strong>(particularly <strong>AI4code/compiler</strong>)</li>
+  <li><strong>software systems</strong> (such as <strong>multi-agent systems</strong>)</li>
+  <li><strong>AI infrastructure</strong> (especially <strong>AI training/inference frameworks</strong> and <strong>AI compilers</strong>)</li>
+  <li><strong>AI4SE</strong> (particularly <strong>AI4code/compiler</strong>)</li>
 </ul>
 
 Previously, I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **SYSU**, and served as a Research Assistant in the **[ARISE Lab](http://ariselab.cse.cuhk.edu.hk/)** at **CUHK**, led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)**.
@@ -132,6 +132,10 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 - Software Engineering Training: Integrated Projects (*2026*), SYSU.
 
 
+<!-- ---
+# 🍵 Services
+*Coming soon.* -->
+
 ---
 <!-- # Technical Skills 💻 -->
 <!-- <span style="font-size: 1.2em; font-weight: bold;">Programming Languages</span>  -->
@@ -145,7 +149,7 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 - **Cantonese** (Elementary, But I'm improving💪)
 - **Xiang Dialect** (Native speaker) -->
 <!-- --- -->
-# 🤝🏻 Community Contribution 
+# 🤝🏻 Community Contributions 
 - <span style="font-size: 1.2em; font-weight: bold;">Volunteer Teaching</span> Xupu County, Hunan (*2022.7 - 2022.8*)  
   Illuminating Youth, Empowering Futures · [[News report (in Chinese)](https://m.voc.com.cn/xhn/news/202207/17454263.html)]
 
