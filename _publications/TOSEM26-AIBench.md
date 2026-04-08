@@ -17,7 +17,7 @@ venue: 'Accepted at <i>The 34th ACM International Conference on the Foundations 
 venue1: 'Extended version under review at <i>The ACM Transactions on Software Engineering and Methodology</i>'
 paperurl: ''
 arxivurl: 'https://arxiv.org/abs/2601.09393'
-projecturl: ''
+projecturl: 'https://github.com/AINativeOps/AINativeBench'
 doiurl: ''
 bibtexurl: ''
 citation: '<u>Zirui Wang</u>*, Guangba Yu*†, Michael R. Lyu'
