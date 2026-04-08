@@ -84,12 +84,12 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 ---
 # 🚀 News
 <ul style="margin: 0.2em 0 0 0; padding-left: 1.2em;">
-  <li style="margin: 0;">
+  <!-- <li style="margin: 0;">
     <div style="display: inline-flex; width: calc(100% - 0.5em); justify-content: space-between; align-items: baseline;">
       <span>I will join <strong>HiSilicon</strong> as an intern in May. Looking forward to meeting you in Hangzhou!</span>
       <span style="white-space: nowrap; margin-left: 1em;"><em>2026.05</em></span>
     </div>
-  </li>
+  </li> -->
   <li style="margin: 0.2em 0 0 0;">
     <div style="display: inline-flex; width: calc(100% - 0.5em); justify-content: space-between; align-items: baseline;">
       <span>🎉 Our <span style="font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif; font-weight: 850;">AI-NativeBench</span> has been accepted by DISE Workshop @ <span style="color: #3eb59d; font-weight: 700;">FSE'26</span>.</span>
