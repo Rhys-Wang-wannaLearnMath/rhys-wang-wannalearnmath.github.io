@@ -71,7 +71,7 @@ I'm currently an undergraduate student in the ***[School of Software Engineering
 
 <p style="margin-bottom: 0.15em !important;">I’m passionate about making a positive impact on everyday life and the community. 🌟 My research interests focus on:</p>
 <ul style="margin-top: 0 !important; margin-left: 0 !important; padding-left: 0 !important; list-style-position: inside !important;">
-  <li><strong>software systems</strong> (such as <strong>multi-agent systems</strong>)</li>
+  <li><strong>Intelligent Software Systems</strong> (such as <strong>multi-agent systems</strong>)</li>
   <li><strong>AI infrastructure</strong> (especially <strong>AI training/inference frameworks</strong> and <strong>AI compilers</strong>)</li>
   <li><strong>AI4SE</strong> (particularly <strong>AI4code/compiler</strong>)</li>
 </ul>
@@ -83,7 +83,20 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 
 ---
 # 🚀 News
-- 🎉 Our <span style="font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif; font-weight: 850;">AI-NativeBench</span> has been accepted by DISE Workshop @ <span style="color: #3eb59d; font-weight: 700;">FSE'26</span>. <span style="float: right;"><em>2026.02</em></span>
+<ul style="margin: 0.2em 0 0 0; padding-left: 1.2em;">
+  <li style="margin: 0;">
+    <div style="display: inline-flex; width: calc(100% - 0.5em); justify-content: space-between; align-items: baseline;">
+      <span>I will join <strong>HiSilicon</strong> as an intern in May. Looking forward to meeting you in Hangzhou!</span>
+      <span style="white-space: nowrap; margin-left: 1em;"><em>2026.05</em></span>
+    </div>
+  </li>
+  <li style="margin: 0.2em 0 0 0;">
+    <div style="display: inline-flex; width: calc(100% - 0.5em); justify-content: space-between; align-items: baseline;">
+      <span>🎉 Our <span style="font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif; font-weight: 850;">AI-NativeBench</span> has been accepted by DISE Workshop @ <span style="color: #3eb59d; font-weight: 700;">FSE'26</span>.</span>
+      <span style="white-space: nowrap; margin-left: 1em;"><em>2026.02</em></span>
+    </div>
+  </li>
+</ul>
 
 ---
 # 🎓 Education 
