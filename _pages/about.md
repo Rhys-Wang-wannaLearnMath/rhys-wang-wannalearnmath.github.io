@@ -98,6 +98,8 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
   </li>
 </ul>
 
+
+
 ---
 # 🎓 Education 
 <img src="../images/CUHK.svg" alt="CUHK" style="float: left; width: 90px; height: 90px; margin-right: 12px; margin-bottom: 2px; border-radius: 8px;">
@@ -144,7 +146,13 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 # 📝 Teaching Assistant
 - Software Engineering Training: Integrated Projects (*2026*), SYSU.
 
-
+---
+# 🪄 Open-Source Gadgets
+<ul style="margin: 0.2em 0 0 0; padding-left: 1.2em;">
+  <li style="margin: 0;">
+    <strong><a href="https://marketplace.visualstudio.com/items?itemName=RhysWang0405-vsc-studio.overleaf-gitlive">Overleaf GitLive</a></strong> — A VS Code extension for bidirectional real-time sync with Overleaf projects, enabling seamless collaboration with local vibe writing.
+  </li>
+</ul>
 <!-- ---
 # 🍵 Services
 *Coming soon.* -->
