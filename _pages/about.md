@@ -148,11 +148,8 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 
 ---
 # 🪄 Open-Source Gadgets
-<ul style="margin: 0.2em 0 0 0; padding-left: 1.2em;">
-  <li style="margin: 0;">
-    <strong><a href="https://marketplace.visualstudio.com/items?itemName=RhysWang0405-vsc-studio.overleaf-gitlive">Overleaf GitLive</a></strong> — A VS Code extension for bidirectional real-time sync with Overleaf projects, enabling seamless collaboration with local vibe writing.
-  </li>
-</ul>
+- **Overleaf GitLive** — A VS Code extension for bidirectional real-time sync with Overleaf projects. [[Marketplace](https://marketplace.visualstudio.com/items?itemName=RhysWang0405-vsc-studio.overleaf-gitlive)] [[GitHub](https://github.com/Rhys-Wang-wannaLearnMath/Overleaf-GitLive)]
+
 <!-- ---
 # 🍵 Services
 *Coming soon.* -->
