@@ -13,7 +13,7 @@ date: 2026-01-15
 venue_short: "FSE'26 (CCF A)"
 venue_short1: "TOSEM (CCF A)"
 # 下列venue代表文章的状态，记得<i>和</i>是斜体
-venue: 'Accepted at <a href="https://seed-vt.github.io/dise/"><i>The 34th ACM International Conference on the Foundations of Software Engineering Workshop on Data Intensive Software Engineering</i></a>'
+venue: 'Accepted at <i>The 34th ACM International Conference on the Foundations of Software Engineering Workshop on Data Intensive Software Engineering</i> <a href="https://seed-vt.github.io/dise/">[Link]</a>'
 venue1: 'Extended version under review at <i>The ACM Transactions on Software Engineering and Methodology</i>'
 paperurl: ''
 arxivurl: 'https://arxiv.org/abs/2601.09393'
