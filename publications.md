@@ -91,6 +91,9 @@ author_profile: true
       <img src="{{ base_path }}/icons/bibtex.svg" class="pub-link-icon" alt="" aria-hidden="true">BibTeX
     </span>
     {% endif %}
+    {% if pub.field and pub.field != "" %}
+    <span class="pub-field-label pub-field-label-inline">{{ pub.field }}</span>
+    {% endif %}
   </div>
 </div>
 {% endfor %}
@@ -286,13 +289,37 @@ document.addEventListener('DOMContentLoaded', function() {
   z-index: 1;
 }
 
+.pub-card-header {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.3em 0.75em;
+  align-items: start;
+  margin-bottom: 0.3em;
+}
+
 .pub-card-title {
   font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
   font-size: 0.95em;
   font-weight: 750;
   color: #222;
-  margin-bottom: 0.3em;
+  margin-bottom: 0;
   line-height: 1.35;
+}
+
+.pub-field-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.32em;
+  padding: 3px 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: rgba(62, 181, 157, 0.22);
+  font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
+  font-size: 0.78em;
+  font-weight: 700;
+  color: #2e7d6e;
+  white-space: nowrap;
+  line-height: 1;
 }
 
 .pub-card-authors {
@@ -404,6 +431,12 @@ document.addEventListener('DOMContentLoaded', function() {
 @media (max-width: 768px) {
   .pub-container {
     flex-direction: column;
+  }
+  .pub-card-header {
+    grid-template-columns: 1fr;
+  }
+  .pub-field-label {
+    justify-self: start;
   }
   .pub-sidebar {
     position: static;

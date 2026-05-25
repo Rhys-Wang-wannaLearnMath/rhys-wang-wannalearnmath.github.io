@@ -126,13 +126,14 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 ---
 # 🏆 Awards & Honors 
 <span style="font-size: 1.2em; font-weight: bold;">Scholarships</span>  
-- 1st Class Scholarship for Outstanding Student (*2022 - 2023*, top 5%)
+- 1st Class Scholarship for Outstanding Student, SYSU (*2022 - 2023*, top 5%)
 - Merchants Union Consumer Finance Company Limited Scholarship (*2022 - 2023*, top 5%, Biennial award)
-- Arts&Culture Scholarship (*2022 - 2023*)
-- 2nd Class Scholarship for Outstanding Student (*2023 - 2024*, top 10%)
+- Arts&Culture Scholarship, SYSU (*2022 - 2023*)
+- 2nd Class Scholarship for Outstanding Student, SYSU (*2023 - 2024*, top 10%)
 - Kingdomcares Scholarship (*2023 - 2024*, top 5%)
-- 1st Class Scholarship for Outstanding Student (*2024 - 2025*, top 5%)
+- 1st Class Scholarship for Outstanding Student, SYSU (*2024 - 2025*, top 5%)
 - Merchants Union Consumer Finance Company Limited Scholarship (*2024 - 2025*, top 5%, Biennial award)  
+- Outstanding Graduate, SYSU (*2026*, top 5%)
 
 <span style="font-size: 1.2em; font-weight: bold;">Projects</span>  
 - China National-Level Innovation Project, Leader (*2024 - 2025*, 4 out of 71, **rated Excellent**)
