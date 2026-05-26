@@ -66,7 +66,7 @@ li {
 
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=43&pause=1000&color=F76742&vCenter=true&width=800&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hello%2C+I'm+Zirui (Rhys) Wang." alt="Hello, I'm Zirui." style="display:block;margin:0px auto 12px;" />
 
-I'm currently an undergraduate student in the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)**. I will join the **[S3 Lab](https://github.com/cuhk-s3)** led by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)**, an outstanding rising star and a truly supportive mentor, in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)** and begin my **Ph.D.** journey in **Fall 2026**.
+I am currently a **Ph.D.** student in the ***[Department of Computer Science and Engineering(CSE)](https://www.cse.cuhk.edu.hk/)*** at **[The Chinese University of Hong Kong(CUHK)](https://www.cuhk.edu.hk/english/index.html)**. I am a member of the **[S3 Lab](https://github.com/cuhk-s3)**, advised by **[Prof. Shaohua Li](https://shao-hua-li.github.io/)**, an outstanding rising star and a truly supportive mentor. I received my **B.E.** degree from the ***[School of Software Engineering](https://sse.sysu.edu.cn/)*** at **[Sun Yat-Sen University(SYSU)](https://www.sysu.edu.cn/sysuen/)**.
 
 
 <p style="margin-bottom: 0.15em !important;">I’m passionate about making a positive impact on everyday life and the community. 🌟 My research interests focus on:</p>
@@ -111,7 +111,7 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 <div style="clear: both;"></div>
 <hr style="border: none; height: 1px; background: repeating-linear-gradient(to right, #e8e8e8 0, #e8e8e8 6px, transparent 6px, transparent 14px); margin: 0.5em 0;">
 <img src="../images/sysu.jpeg" alt="Sun Yat-sen University" style="float: left; width: 90px; height: 90px; margin-right: 12px; margin-bottom: 0px; border-radius: 8px;">
-<span style="font-size: 1.2em; font-weight: bold;">Sun Yat-sen University</span><span style="float: right;"><em>2022.09 - 2026.6 (Expected)</em></span>  
+<span style="font-size: 1.2em; font-weight: bold;">Sun Yat-sen University</span><span style="float: right;"><em>2022.09 - 2026.6</em></span>  
 <ul style="margin: 0.2em 0 0 0; padding-left: 0; list-style-position: inside;">
   <li style="margin: 0;">Bachelor of Engineering, <em>School of Software Engineering</em></li>
   <li style="margin: 0.2em 0 0 0;">GPA: 4.0/4.0; Rank: 1%/167; Advisor: <strong><a href="https://sse.sysu.edu.cn/teacher/221">Prof. Yuxin Su</a></strong></li>
