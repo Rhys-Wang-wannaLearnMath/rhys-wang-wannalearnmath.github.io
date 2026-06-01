@@ -1,7 +1,7 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Zirui (Rhys) Wang Personal Website
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+This repository contains the source for the personal academic website of
+Zirui (Rhys) Wang, hosted with GitHub Pages at:
 
 # Getting Started
 

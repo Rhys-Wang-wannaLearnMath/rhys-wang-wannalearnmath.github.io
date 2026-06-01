@@ -92,6 +92,12 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
   </li> -->
   <li style="margin: 0.2em 0 0 0;">
     <div style="display: inline-flex; width: calc(100% - 0.5em); justify-content: space-between; align-items: baseline;">
+      <span>🎉 Our <span style="font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif; font-weight: 850;">AI-NativeBench</span> has been accepted by <span style="color: #3eb59d; font-weight: 700;">TOSEM</span> (Extended Version).</span>
+      <span style="white-space: nowrap; margin-left: 1em;"><em>2026.06</em></span>
+    </div>
+  </li>
+  <li style="margin: 0.2em 0 0 0;">
+    <div style="display: inline-flex; width: calc(100% - 0.5em); justify-content: space-between; align-items: baseline;">
       <span>🎉 Our <span style="font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif; font-weight: 850;">AI-NativeBench</span> has been accepted by DISE Workshop @ <span style="color: #3eb59d; font-weight: 700;">FSE'26</span>.</span>
       <span style="white-space: nowrap; margin-left: 1em;"><em>2026.02</em></span>
     </div>
