@@ -72,7 +72,7 @@ I am currently a **Ph.D.** student in the ***[Department of Computer Science and
 <p style="margin-bottom: 0.15em !important;">I’m passionate about making a positive impact on everyday life and the community. 🌟 My research interests focus on:</p>
 <ul style="margin-top: 0 !important; margin-left: 0 !important; padding-left: 0 !important; list-style-position: inside !important;">
   <li><strong>AI-driven computing systems</strong>: leveraging AI to improve <strong>efficiency and security</strong> on modern hardware (<strong>GPUs, NPUs, and CPUs</strong>)</li>
-  <li><strong>System-level performance and reliability</strong>: <strong>kernel-level</strong> optimization and <strong>dependability</strong> for large-scale AI workloads</li>
+  <li><strong>System-level performance and reliability</strong>: <strong>kernel-level optimization and dependability</strong> for large-scale AI workloads</li>
   <li><strong>AI for Software Engineering (AI4SE)</strong>: building <strong>trustworthy AI-enabled software systems</strong> that are <strong>secure, reliable, observable, and controllable</strong></li>
 </ul>
 
