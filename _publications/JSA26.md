@@ -2,7 +2,7 @@
 title: "Memoir: Efficient KV Cache Optimization for LLM Inference in WebAssembly Runtimes"
 collection: publications
 # manuscripts代表Journal，conferences代表Conference
-category: conferences
+category: manuscripts
 # 下列这个代表你的目录
 
 # 下列是简短的介绍
@@ -12,11 +12,12 @@ date: 2026-01-15
 field: 'AI&Sys'
 venue_short: "Preprint"
 # 下列venue代表文章的状态，记得<i>和</i>是斜体
-venue: 'Under review at <i>The 46th IEEE International Conference on Distributed Computing Systems</i>'
+venue: 'Under review at <i>Journal of Systems Architecture</i>'
 paperurl: ''
 arxivurl: 'https://drive.google.com/file/d/1nk6Jl0UZLD7CczVP3a2z7R7sU1VWlsfS/view?usp=sharing'
 projecturl: ''
 doiurl: ''
 bibtexurl: ''
-citation: '<u>Zirui Wang</u>, Yudan Long, Yuxin Su†, Dan Li, Zibin Zheng'
+citation: '<u>Zirui Wang</u>, Yudan Long, Yuxin Su†, Shan Jiang, Dan Li, Zibin Zheng'
 ---
+
