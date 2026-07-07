@@ -20,5 +20,5 @@ arxivurl: 'https://arxiv.org/abs/2607.02370'
 projecturl: ''
 doiurl: ''
 bibtexurl: ''
-citation: 'Batu Guan, Zirui Wang, Shaohua Li†'
+citation: 'Batu Guan, <u>Zirui Wang</u>, Shaohua Li†'
 ---
