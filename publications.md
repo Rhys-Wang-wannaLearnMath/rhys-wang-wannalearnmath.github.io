@@ -83,9 +83,17 @@ author_profile: true
     </span>
     {% endif %}
     {% if pub.bibtexurl and pub.bibtexurl != "" %}
+    {% if pub.bibtexurl contains "@article{" or pub.bibtexurl contains "@inproceedings{" or pub.bibtexurl contains "@misc{" %}
+    {% assign bibtex_id = "bibtex-" | append: year_group.name | append: "-" | append: forloop.index %}
+    <button type="button" class="pub-link-btn js-copy-bibtex" data-bibtex-target="{{ bibtex_id }}">
+      <img src="{{ base_path }}/icons/bibtex.svg" class="pub-link-icon" alt="" aria-hidden="true">BibTeX
+    </button>
+    <script type="application/json" id="{{ bibtex_id }}">{{ pub.bibtexurl | jsonify }}</script>
+    {% else %}
     <a href="{{ pub.bibtexurl }}" class="pub-link-btn" target="_blank">
       <img src="{{ base_path }}/icons/bibtex.svg" class="pub-link-icon" alt="" aria-hidden="true">BibTeX
     </a>
+    {% endif %}
     {% else %}
     <span class="pub-link-btn pub-link-disabled">
       <img src="{{ base_path }}/icons/bibtex.svg" class="pub-link-icon" alt="" aria-hidden="true">BibTeX
@@ -115,6 +123,35 @@ author_profile: true
 document.addEventListener('DOMContentLoaded', function() {
   var sidebarItems = document.querySelectorAll('.pub-sidebar-item');
   var yearSections = document.querySelectorAll('.pub-year-section');
+  var bibtexButtons = document.querySelectorAll('.js-copy-bibtex');
+
+  function copyTextToClipboard(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      return navigator.clipboard.writeText(text);
+    }
+
+    return new Promise(function(resolve, reject) {
+      var textArea = document.createElement('textarea');
+      textArea.value = text;
+      textArea.setAttribute('readonly', '');
+      textArea.style.position = 'absolute';
+      textArea.style.left = '-9999px';
+      document.body.appendChild(textArea);
+      textArea.select();
+      try {
+        var successful = document.execCommand('copy');
+        document.body.removeChild(textArea);
+        if (successful) {
+          resolve();
+        } else {
+          reject(new Error('Copy command failed'));
+        }
+      } catch (err) {
+        document.body.removeChild(textArea);
+        reject(err);
+      }
+    });
+  }
 
   function normalizeVenueTagWidth() {
     var cards = document.querySelectorAll('.pub-card');
@@ -166,6 +203,36 @@ document.addEventListener('DOMContentLoaded', function() {
       if (target) {
         window.scrollTo({ top: target.offsetTop - 80, behavior: 'smooth' });
       }
+    });
+  });
+
+  bibtexButtons.forEach(function(button) {
+    button.addEventListener('click', function() {
+      var targetId = button.getAttribute('data-bibtex-target');
+      var dataNode = document.getElementById(targetId);
+      if (!dataNode) {
+        return;
+      }
+
+      var bibtexText = '';
+      try {
+        bibtexText = JSON.parse(dataNode.textContent);
+      } catch (err) {
+        bibtexText = dataNode.textContent;
+      }
+
+      var originalLabel = button.innerHTML;
+      copyTextToClipboard(bibtexText).then(function() {
+        button.innerHTML = 'Copied!';
+        setTimeout(function() {
+          button.innerHTML = originalLabel;
+        }, 1200);
+      }).catch(function() {
+        button.innerHTML = 'Copy failed';
+        setTimeout(function() {
+          button.innerHTML = originalLabel;
+        }, 1200);
+      });
     });
   });
 
@@ -395,12 +462,16 @@ document.addEventListener('DOMContentLoaded', function() {
   padding: 3px 10px;
   border: 1px solid #ddd;
   border-radius: 3px;
+  background: #fff;
+  appearance: none;
+  -webkit-appearance: none;
   font-family: 'Charter', 'Source Han Serif SC', 'Georgia', serif !important;
   font-size: 0.78em;
   color: #333;
   text-decoration: none !important;
   transition: background 0.15s;
   cursor: pointer;
+  line-height: 1.2;
 }
 
 .pub-link-btn:hover {
