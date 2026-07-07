@@ -78,7 +78,7 @@ I am currently a **Ph.D.** student in the ***[Department of Computer Science and
 
 Previously, I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **SYSU**, and served as a Research Assistant in the **[ARISE Lab](http://ariselab.cse.cuhk.edu.hk/)** at **CUHK**, led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)**.
 
-You can view my **CV** here: [English version](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKwHUUSkUQ8Vrq/view?usp=sharing)&[Chinese version](https://drive.google.com/file/d/18LoLKecBpM8NQHUDMtqaOSp7rE4cjySM/view?usp=sharing) 📄. Please feel free to reach out for further discussion: [rhyswang0405@gmail.com](mailto:rhyswang0405@gmail.com); [wangzr39@mail2.sysu.edu.cn](mailto:wangzr39@mail2.sysu.edu.cn); [zrwang@cse.cuhk.edu.hk](mailto:zrwang@cse.cuhk.edu.hk) 📧
+You can view my **CV** here: [English version](https://drive.google.com/file/d/1C0UyQC3EjuYsMd4WkLEKwHUUSkUQ8Vrq/view?usp=sharing)&[Chinese version](https://drive.google.com/file/d/18LoLKecBpM8NQHUDMtqaOSp7rE4cjySM/view?usp=sharing) 📄. Please feel free to reach out for further discussion: [zrwang@cse.cuhk.edu.hk](mailto:zrwang@cse.cuhk.edu.hk) 📧
 
 
 ---
