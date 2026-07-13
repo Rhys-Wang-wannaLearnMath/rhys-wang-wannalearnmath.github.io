@@ -1,5 +1,5 @@
 ---
-title: "AI-NativeBench: An Open-Source White-Box Agentic Benchmark Suite for AI-Native Systems"
+title: "AI-NativeBench: An Open Source White-Box Agentic Benchmark Suite for AI-Native Systems"
 collection: publications
 # manuscripts代表journal，conference代表conference
 category: conferences

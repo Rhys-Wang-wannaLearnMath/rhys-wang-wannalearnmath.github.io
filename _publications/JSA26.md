@@ -1,5 +1,5 @@
 ---
-title: "Memoir: Efficient KV Cache Optimization for LLM Inference in WebAssembly Runtimes"
+title: "Memoir: A Bounded KV Memory Architecture for Edge LLM Inference in WebAssembly Runtimes"
 collection: publications
 # manuscripts代表Journal，conferences代表Conference
 category: manuscripts
