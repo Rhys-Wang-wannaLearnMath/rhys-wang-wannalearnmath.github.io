@@ -11,7 +11,7 @@ category1: manuscripts
 
 date: 2026-01-15
 field: 'AI&SE'
-venue_short: "FSE'26 (CCF A)"
+venue_short: "DISE'26"
 venue_short1: "TOSEM (CCF A)"
 # TOSEM (CCF A)
 # 下列venue代表文章的状态，记得<i>和</i>是斜体

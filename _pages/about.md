@@ -151,7 +151,8 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 
 ---
 # 📝 Teaching Assistant
-- Software Engineering Training: Integrated Projects (*2026*), SYSU.
+- Software Engineering Training: Integrated Projects. *2026 Spring* in SYSU.
+- Software Engineering.(CSCI3100). *2026 Fall* in CUHK.
 
 ---
 # 🪄 Open-Source Gadgets
