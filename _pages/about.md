@@ -72,7 +72,7 @@ I am currently a **Ph.D.** student in the ***[Department of Computer Science and
 <p style="margin-bottom: 0.15em !important;">I’m passionate about making a positive impact on everyday life and the community. 🌟 My research interests focus on:</p>
 <ul style="margin-top: 0 !important; margin-left: 0 !important; padding-left: 0 !important; list-style-position: inside !important;">
   <li><strong>AI Systems</strong>: enhancing the <strong>performance and reliability</strong> of AI infrastructure on modern compute hardware (<strong>GPUs, NPUs, and CPUs</strong>)</li>
-  <li><strong>AI for Software Engineering (AI4SE)</strong>: building <strong>trustworthy AI-native software systems</strong> that are <strong>secure, reliable, observable, and controllable</strong></li>
+  <li><strong>AI4SE</strong>: building <strong>trustworthy AI-native software systems</strong> that are <strong>secure, reliable, observable, and controllable</strong></li>
 </ul>
 
 Previously, I was advised by **[Prof. Yuxin Su](https://sse.sysu.edu.cn/teacher/221)** at **SYSU**, and served as a Research Assistant in the **[ARISE Lab](http://ariselab.cse.cuhk.edu.hk/)** at **CUHK**, led by **[Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/)**.
