@@ -24,7 +24,9 @@ author_profile: true
   <div class="pub-card-authors">{{ pub.citation }}</div>
   <div class="pub-card-venue">
     <div class="pub-venue-line">
-      {% if pub.category == 'conferences' %}
+      {% if pub.venue_short == 'Preprint' %}
+      <span class="pub-tag pub-tag-preprint">{{ pub.venue_short }}</span><span class="pub-venue-text"> {{ pub.venue }}</span>
+      {% elsif pub.category == 'conferences' %}
       <span class="pub-tag pub-tag-conf">{{ pub.venue_short }}</span><span class="pub-venue-text"> {{ pub.venue }}</span>
       {% elsif pub.category == 'manuscripts' %}
       <span class="pub-tag pub-tag-jour">{{ pub.venue_short }}</span><span class="pub-venue-text"> {{ pub.venue }}</span>
@@ -34,7 +36,9 @@ author_profile: true
     </div>
     {% if pub.venue1 and pub.venue1 != "" %}
     <div class="pub-venue-line">
-      {% if pub.category1 == 'conferences' %}
+      {% if pub.venue_short1 == 'Preprint' %}
+      <span class="pub-tag pub-tag-preprint">{{ pub.venue_short1 }}</span><span class="pub-venue-text"> {{ pub.venue1 }}</span>
+      {% elsif pub.category1 == 'conferences' %}
       <span class="pub-tag pub-tag-conf">{{ pub.venue_short1 }}</span><span class="pub-venue-text"> {{ pub.venue1 }}</span>
       {% elsif pub.category1 == 'manuscripts' %}
       <span class="pub-tag pub-tag-jour">{{ pub.venue_short1 }}</span><span class="pub-venue-text"> {{ pub.venue1 }}</span>
@@ -428,6 +432,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
 .pub-tag-jour {
   background: #1982c4;
+}
+
+.pub-tag-preprint {
+  background: #c8cdd3;
+  color: #fff;
 }
 
 .pub-venue-text {
