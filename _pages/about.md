@@ -85,6 +85,12 @@ You can view my **CV** here: [English version](https://drive.google.com/file/d/1
 <ul style="margin: 0.2em 0 0 0; padding-left: 1.2em;">
   <li style="margin: 0.2em 0 0 0;">
     <div style="display: inline-flex; width: calc(100% - 0.5em); justify-content: space-between; align-items: baseline;">
+      <span>📍 I will be attending a conference in Shanghai in late October. Feel free to reach out if you’d like to meet!</span>
+      <span style="white-space: nowrap; margin-left: 1em;"><em>2026.10</em></span>
+    </div>
+  </li>
+  <li style="margin: 0.2em 0 0 0;">
+    <div style="display: inline-flex; width: calc(100% - 0.5em); justify-content: space-between; align-items: baseline;">
       <span>🎤 Gave a talk at <span style="color: #3eb59d; font-weight: 700;">LMPL'26</span> @ SPLASH/ISSTA'26.</span>
       <span style="white-space: nowrap; margin-left: 1em;"><em>2026.10</em></span>
     </div>
