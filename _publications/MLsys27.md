@@ -1,5 +1,5 @@
 ---
-title: "Understanding Tolerance Threshold Setup in Automated GPU Kernel Optimization"
+title: "Understanding the Impact of Tolerance Threshold in Automated GPU Kernel Optimization"
 collection: publications
 # manuscripts代表journal，conference代表conference
 category: conferences
@@ -20,5 +20,5 @@ arxivurl: ''
 projecturl: ''
 doiurl: ''
 bibtexurl: ''
-citation: '<u>Zirui Wang</u>, Yunbo Ni, Chijin Zhou, Shaohua Li†'
+citation: '<u>Zirui Wang</u>, Yunbo Ni, Jinjie Liu, Chijin Zhou, Shaohua Li†'
 ---
